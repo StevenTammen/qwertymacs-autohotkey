@@ -1,2 +1,3 @@
-# qwertymacs-autohotkey
-An AutoHotkey version of https://github.com/StevenTammen/qwertymacs
+## Link to project documentation
+
+https://www.chrya.com/projects/qwertymacs-autohotkey
